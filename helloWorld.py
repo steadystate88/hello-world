@@ -1,3 +1,3 @@
-for i in range(5):
+for i in range(10):
     print ('Hello World')
-print ('My Name is Seno Park')
+    print ('My Name is Seno Park')
